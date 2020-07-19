@@ -1,0 +1,12 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÌÝ±8’Ñš¹¯.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡—Øê8ë‘é¸¯.
+v
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ˆÃ÷â8ë‘é¸¯.
+Rsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ˆÃ÷â8’µ„·¯.
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(­æô–ÿÿÿÿÿ8’µ„·¯.
+Rsquid:S2864)"4Iterate over the "entrySet" instead of the "keySet".(ˆÃ÷â8Ì ì·¯.
+8squid:S1220""Move this file to a named package.8€Ì¼½¯.

@@ -1,0 +1,11 @@
+tasks/RejectedTaskHandler.class
+model/Beverage.class
+model/Machine.class
+model/CoffeeMachineDetails.class
+model/Outlet.class
+inventory/InventoryManager.class
+inventory/InventoryManager$1.class
+tasks/BeverageMakerTask.class
+inventory/InventoryManager$InventoryManagerHolder.class
+tasks/CoffeeMachine.class
+CoffeeMachineApplication.class
